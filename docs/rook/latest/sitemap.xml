@@ -201,6 +201,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rook.io/latest/Storage-Configuration/Ceph-CSI/custom-images/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rook.io/latest/Storage-Configuration/Monitoring/ceph-dashboard/</loc>
          <lastmod>2022-05-19</lastmod>
          <changefreq>daily</changefreq>
@@ -267,6 +272,16 @@
     </url>
     <url>
          <loc>https://rook.io/latest/Troubleshooting/openshift-common-issues/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rook.io/latest/Upgrade/ceph-upgrade/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rook.io/latest/Upgrade/health-verification/</loc>
          <lastmod>2022-05-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
